@@ -1,0 +1,17 @@
+.container{
+    border: 1px solid black;
+    width: 20vw;
+    padding: 10px;
+    margin: 20px;
+}
+.container:hover{
+    border-color: cornflowerblue;
+}
+.cardFooter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+img{
+    width: 100%;
+}
