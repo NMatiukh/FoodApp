@@ -1,11 +1,9 @@
 import './App.css'
-import objsArr from './data.json'
 import {useEffect, useState} from "react";
 import Card from "./components/Card/Card";
 import {Avatar, Button, Empty, InputNumber, List, Result, Skeleton, Space, Typography} from "antd";
 import StoreCard from "./components/StoreCard/StoreCard";
 import {DeleteOutlined, ShoppingOutlined} from "@ant-design/icons";
-import {logDOM} from "@testing-library/react";
 import axios from "axios";
 
 const App = () => {

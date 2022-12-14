@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2829f88-0732-4b3e-88e1-af49c00a7ec5" name="Changes" comment="lesson12">
+      <change beforePath="$PROJECT_DIR$/src/dev/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dev/palette.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dev/previews.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dev/useInitial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="com.haulmont.rcb.function_component" />
+        <option value="react arrow components.jsx.child.0" />
+        <option value="react arrow components" />
+        <option value="CSS File" />
+        <option value="Arrow Function Component.jsx.child.0" />
+        <option value="Arrow Function Component" />
+        <option value="com.haulmont.rcb.arrow_function_component" />
+        <option value="com.haulmont.rcb.palette" />
+        <option value="com.haulmont.rcb.previews" />
+        <option value="com.haulmont.rcb.index" />
+        <option value="com.haulmont.rcb.useInitial" />
+        <option value="com.haulmont.rcb.class_component" />
+        <option value="JS Arrow Function Component.jsx.child.0" />
+        <option value="JS Arrow Function Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="061195bc44e3b16ba283be2802458bfc23003b88" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HrkdzhJ6wyXv9kR19KkpOuyEX4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MatiukhAdmin/Desktop/lesson/src&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\MatiukhAdmin\\AppData\\Local\\JetBrains\\Toolbox\\apps\\WebStorm\\ch-0\\222.4345.14\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MatiukhAdmin\Desktop\lesson\src" />
+      <recent name="C:\Users\MatiukhAdmin\Desktop\lesson" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MatiukhAdmin\Desktop\lesson\public" />
+      <recent name="C:\Users\MatiukhAdmin\Desktop\lesson\src" />
+      <recent name="C:\Users\MatiukhAdmin\Desktop\lesson\src\components\UserCard" />
+      <recent name="C:\Users\MatiukhAdmin\Desktop\lesson\src\components\CW" />
+      <recent name="C:\Users\MatiukhAdmin\Desktop\lesson\src\components\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2829f88-0732-4b3e-88e1-af49c00a7ec5" name="Changes" comment="" />
+      <created>1669050680604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669050680604</updated>
+      <workItem from="1669050681730" duration="5609000" />
+      <workItem from="1669192146812" duration="7133000" />
+      <workItem from="1669221622123" duration="3803000" />
+      <workItem from="1669233943310" duration="2958000" />
+      <workItem from="1669321317246" duration="8466000" />
+      <workItem from="1669395201501" duration="15762000" />
+      <workItem from="1669804454345" duration="3288000" />
+      <workItem from="1669848672953" duration="10269000" />
+      <workItem from="1669943799258" duration="7224000" />
+      <workItem from="1669951040459" duration="195000" />
+      <workItem from="1669951242644" duration="10890000" />
+      <workItem from="1669999763041" duration="972000" />
+      <workItem from="1670000741906" duration="7294000" />
+      <workItem from="1670022566303" duration="1056000" />
+      <workItem from="1670023630645" duration="3334000" />
+      <workItem from="1670028632604" duration="7119000" />
+      <workItem from="1670135564877" duration="667000" />
+      <workItem from="1670258895477" duration="4654000" />
+      <workItem from="1670396736788" duration="2040000" />
+      <workItem from="1670402116987" duration="2525000" />
+      <workItem from="1670473073309" duration="5116000" />
+      <workItem from="1670554569536" duration="5112000" />
+      <workItem from="1670668637332" duration="1003000" />
+      <workItem from="1670777747901" duration="6622000" />
+      <workItem from="1670821217891" duration="6195000" />
+      <workItem from="1670828879480" duration="8589000" />
+      <workItem from="1670864587815" duration="3494000" />
+      <workItem from="1670930714023" duration="7000" />
+      <workItem from="1671001821967" duration="1520000" />
+    </task>
+    <task id="LOCAL-00001" summary="lesson12">
+      <created>1670821369808</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670821369808</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="new_1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="new_1" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson12" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson12" />
+  </component>
+</project>
