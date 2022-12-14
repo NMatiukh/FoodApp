@@ -1,15 +1,18 @@
-.container{
+.container {
     border: 1px dashed black;
     width: 100%;
     padding: 10px;
-     display: flex;
+    display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
-img{
+
+.imgStore {
     width: 10%;
-    border-radius: 5%;
+    border: 1px solid black;
+    border-radius: 50%;
 }
-input{
+
+input {
     width: 100px;
 }

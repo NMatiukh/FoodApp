@@ -1,18 +1,25 @@
 import style from './Card.module.css'
-import {Button, Typography} from "antd";
+import {Button, Card, Typography} from "antd";
+import Meta from "antd/es/card/Meta";
+import {PlusOutlined, ShoppingOutlined} from "@ant-design/icons";
 
 const {Text, Title} = Typography;
-const Card = (props) => {
+const CardMain = (props) => {
     return (
-        <div className={style.container}>
-            <img src={props.obj.img} alt={props.obj.name}/>
-            <Title>{props.obj.name}</Title>
-            <Text type="secondary">{props.obj.description}</Text>
-            <div className={style.cardFooter}>
-                <Text strong>${props.obj.price}</Text>
-                <Button onClick={() => props.addToStore(props.obj)}>Buy</Button>
-            </div>
-        </div>
+        <Card
+            hoverable
+            cover={<img src={props.obj.img} alt={props.obj.name}/>}
+            style={{
+                width: 300,
+                // height: 400
+            }}
+            actions={[
+                <Text strong>${props.obj.price}</Text>,
+                <Button onClick={() => props.addToStore(props.obj)} icon={<PlusOutlined/>}>Add</Button>
+            ]}
+        >
+            <Meta style={{height: 100}} title={props.obj.name} description={props.obj.description}/>
+        </Card>
     );
 }
-export default Card;
+export default CardMain;

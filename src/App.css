@@ -1,14 +1,10 @@
 .container{
-    border: 1px solid black;
-    display: flex;
-    flex-wrap: wrap;
-    width: 56%;
+    width: 64%;
 }
 .store{
-    border: 1px solid black;
+    /*border: 1px solid black;*/
     width: 40%;
-    position: fixed;
-    left: 57%;
+    height: 100%;
 }
 
 .main{
